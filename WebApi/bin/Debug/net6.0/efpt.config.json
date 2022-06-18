@@ -1,0 +1,95 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "masterContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": null,
+   "ProjectRootNamespace": "WebApi",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[BILL_Detailes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BILLS_Master]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CATEGORIES]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[COIN]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CUSTOMER]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[CUSTOMER_CREDITS]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ORDER_Detailes]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ORDER_Master]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PRIVILEGES]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[RAW_MATERIAL]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[STORE_Category_CREDITS]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[STORE_RAW_CREDITS]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[STORES]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[USER_PRIVILEGES]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[USERS]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "THARWATEXAM\\SQL2019STD.",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}
